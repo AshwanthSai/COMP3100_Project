@@ -1,4 +1,7 @@
 # COMP3100_Project
-Adding Basic Structure. 
+Entire Implementation in one java file, MyClient.
+All tests passed at time of final commit, Screenshots added for proof.
 
-Overview.
+To Run Test Shell, Open Terminal in Project Folder.
+Use Command -> ./demoS1.sh -n  MyClient.class
+
