@@ -38,7 +38,7 @@ public class MyClient {
                     send("GETS All");
 					str = recieve();
 
-					//Server count is equal to the total number of servers available
+					//Server Count is the total number of servers available
 					int serverCount = Integer.parseInt(str.split(" ")[1]);
 					send("OK");
 					
